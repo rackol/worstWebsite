@@ -1,0 +1,32 @@
+body{
+    background-color: lightseagreen;
+    padding-left: 2.5%;
+    padding-top: 2.5%;
+}
+h1{
+    position: relative;
+    display: inline;
+    width: 10px;
+    height: 10px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: purple;
+}
+h2{
+    position: relative;
+    display: inline;
+    width: 10px;
+    height: 10px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: plum;
+}
+h3{
+    position: relative;
+    display: inline;
+    width: 10px;
+    height: 10px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: purple;
+}
