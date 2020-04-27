@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="1.css">
+</head>
+<body>
+<h1>
+<a href="home.html"><image src="image/11.gif"style="width:32%;height: 32%;"></image></a>
+<a href="page2.html"><image src="image/16.gif"style="width:32%;hei18ght: 32%;"></image></a>
+<a href="home.html"><image src="image/13.gif"style="width:32%;height: 32%;"></image></a>
+</h1>
+<h2>
+<a href="page2.html"><image src="image/12.gif"style="width:32%;height: 32%;"></image></a>
+<a href="home.html"><image src="image/19.gif"style="width:32%;height: 32%;"></image></a>
+<a href="page2.html"><image src="image/15.gif"style="width:32%;height: 32%;"></image></a>
+</h2>
+<h3>
+<a href="home.html"><image src="image/14.gif"style="width:32%;height: 32%;"></image></a>
+<a href="page2.html"><image src="image/17.gif"style="width:32%;height: 32%;"></image></a>
+<a href="home.html"><image src="image/18.gif"style="width:32%;height: 32%;"></image></a>
+</h3>
+</body>
+</html>
