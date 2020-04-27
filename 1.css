@@ -1,0 +1,28 @@
+body{
+    background-color:powderblue;
+    padding-left: 2.5%;
+    padding-top: 2.5%
+}
+h1{
+    float: unset;
+    padding-top: 5px;
+    padding-left: 5px;
+    border-style: double;
+    border-width: thick;
+
+}
+h2{
+    float: unset;
+    padding-top: 5px;
+    padding-left: 8px;
+    border-style: dotted;
+    border-width: thick;
+}
+h3{
+    float: unset;
+    padding-top: 5px;
+    padding-left: 5px;
+    border-style: double;
+    border-width: thick;
+    position: absolute;
+}
