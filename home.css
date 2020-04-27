@@ -1,0 +1,27 @@
+body{
+    background-color:white;
+    padding-top: 0.5%;
+    padding-right: 3%;
+
+}
+h1{
+    position: absolute;
+    display: block;
+    background-color: cadetblue;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+h2{
+    display: block;
+    background-color: firebrick;
+    align-content: center;
+    margin-top: 40%;
+    margin-left: 5%;
+}
+h3{
+    position: absolute;
+    display: block;
+    background-color: darkolivegreen;
+    margin-left: 5%;
+    margin-right: 5%;
+}
